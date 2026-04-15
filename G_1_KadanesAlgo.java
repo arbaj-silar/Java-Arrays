@@ -1,4 +1,4 @@
-public class G_1_MaxSubarraySum {
+public class G_1_KadanesAlgo {
      public static int maxSubArraySum(int nums[]) {
         int maxSum = Integer.MIN_VALUE;
         int currSum = 0;
